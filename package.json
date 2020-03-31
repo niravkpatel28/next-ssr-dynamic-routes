@@ -16,7 +16,7 @@
   "author": "nirav patel",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.1.3",
+    "next": "^9.3.2",
     "react": "^16.11.0",
     "react-doc": "^1.2.6"
   },
